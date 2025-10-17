@@ -1,0 +1,6 @@
+{
+  "name": "shrikunjvyas/core_oops_php_crm_modular",
+  "type": "project",
+  "require": { "php": ">=8.0" },
+  "autoload": { "psr-4": { "CoreCRM\\": "src/" } }
+}
